@@ -1,5 +1,5 @@
-# CS210_Project-Emre_Konak
-emre.konak@sabanciuniv.edu 31218 CS210 Project 
+# Emre_Konak
+emre.konak@sabanciuniv.edu 
 
 Emre Konak's Analysis of Spotify Streaming Data
 
@@ -20,7 +20,6 @@ Open the folder in Jupyter Lab,  Notebook or VS code.
 Execute the cells in sequence to view the results of the analyses, or can press run all.(If the results can be seen you do not need to run the codes)
 
 Credits
-This project was created by Emre Konak for the purpose of Spotify streaming data analysis in the CS210 course.
+This project was created by Emre Konak for the purpose of Spotify streaming data analysis.
 
-You can find the presentation link video of the project below
-https://drive.google.com/file/d/1TIsP4Vlcs0AQ2CO9wqJNyf6j6eQ7Jr_C/view?usp=sharing
+
